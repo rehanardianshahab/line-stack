@@ -54,7 +54,7 @@ II.	Option:
 46.	legend : shadowOffsetY (number) : jarak bayangan vertikal.
 47.	legend : data(object/array) : item array biasanya merupakan nama yang mewakili string.
 
-**Tooltip :**
+#### **Tooltip :**
 1.	tooltip: trigger (string)axis : untuk chart yang mempunyai kategori, seperti bar charts/line charts.
 2.	tooltip: trigger (string)item : untuk chart yang tidak memiliki kategori,seperti scatter chart/pie chart.
 3.	tooltip: trigger (string)none : untuk tidak menampilkan kategori.
